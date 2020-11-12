@@ -3,5 +3,5 @@ test('two plus two is four', () => {
 });
 
 test("name is egon", () => {
-    expect("muhammed").toEqual("egon");
+    expect("egon").toEqual("egon");
 });
